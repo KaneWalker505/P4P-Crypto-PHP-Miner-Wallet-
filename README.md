@@ -18,7 +18,7 @@ A Crypto Node that can/will NEVER Die
 
 # (No REALLY its blockchain is undestroyable)
 
-* The blockchain creates automated backups, If it ever fails or crashes it can easily be put back online without user wallet damage
+* The blockchain creates automated backups, If it ever fails or becomes corrupt the node can easily be put back online without user wallet damage
 
 # Purchase | sell p4p coin
 
