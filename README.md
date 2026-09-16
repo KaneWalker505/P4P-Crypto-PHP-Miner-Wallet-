@@ -8,7 +8,7 @@ A custom made crypto currency created entirely in PHP
 the node,wallet,miner all work in PHP
 
 
-the miners do not earn off share difficulty but rather as solo block rewards 5% reward of transactions made in block transactions.
+# Miners do not earn off share difficulty but rather from solo block rewards, 5% fee of each transactions made in a block transactions solved by miner.
 
 
 a Crypto Node that can/will NEVER Die
