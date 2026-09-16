@@ -30,6 +30,16 @@ https://payhip.com/b/EyDwQ
 
 * install PHP or get a portable PHP distribution
 
+* Windows
+``` echo \
+winget install PHP.PHP
+```
+
+* unix/Linux
+``` echo \
+apt install php
+```
+
 * execute p4pwallet, p4pminer in shell/terminal/command prompt
 
 * create p4p wallet command example
