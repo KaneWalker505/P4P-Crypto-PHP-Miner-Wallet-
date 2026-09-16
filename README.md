@@ -34,5 +34,9 @@ https://payhip.com/b/EyDwQ
 ``` echo \
 p4pwallet send myp4paddress targetp4paddress 50 privkey
 ```
+* mine p4p coin example
 
+``` echo \
+p4pwallet myp4paddress
+```
   
