@@ -26,4 +26,10 @@ https://payhip.com/b/EyDwQ
 
 * execute p4pwallet, p4pminer in shell/terminal/command prompt
 
+* send payment 50 p4p command example
+
+``` echo \
+p4pwallet send myp4paddress targetp4paddress 50 privkey
+```
+
   
