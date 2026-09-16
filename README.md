@@ -40,6 +40,11 @@ winget install PHP.PHP
 apt install php
 ```
 
+* macOS
+``` echo \
+brew install php
+```
+
 * execute p4pwallet, p4pminer in shell/terminal/command prompt
 
 * create p4p wallet command example
