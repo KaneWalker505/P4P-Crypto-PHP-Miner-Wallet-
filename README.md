@@ -29,11 +29,24 @@ https://payhip.com/b/EyDwQ
 
 * execute p4pwallet, p4pminer in shell/terminal/command prompt
 
+* create p4p wallet command example
+
+``` echo \
+p4pwallet generate
+```
+
+* check p4p balance command example
+
+``` echo \
+p4pwallet balance myp4paddress
+```
+
 * send payment 50 p4p command example
 
 ``` echo \
 p4pwallet send myp4paddress targetp4paddress 50 privkey
 ```
+
 * mine p4p coin example
 
 ``` echo \
