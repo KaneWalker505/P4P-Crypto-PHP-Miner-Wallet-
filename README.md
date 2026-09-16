@@ -11,4 +11,11 @@ the node,wallet,miner all work in PHP
 the miners do not earn off share difficulty but rather as solo block rewards 5% reward of transactions made in block transactions.
 
 
-a Crypto Node that can NEVER Die
+a Crypto Node that can/will NEVER Die
+
+
+# Purchase | sell p4p coin
+
+``` echo \
+https://payhip.com/b/EyDwQ
+```
