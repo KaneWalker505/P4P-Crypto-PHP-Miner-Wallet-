@@ -16,6 +16,8 @@ the node,wallet,miner all work in PHP
 
 A Crypto Node that can/will NEVER Die
 
+# (No REALLY its block chain is undestorable)
+
 
 # Purchase | sell p4p coin
 
