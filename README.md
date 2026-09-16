@@ -19,3 +19,11 @@ A Crypto Node that can/will NEVER Die
 ``` echo \
 https://payhip.com/b/EyDwQ
 ```
+
+# (How-To | Setup)
+
+* install PHP or get a portable PHP distribution
+
+* execute p4pwallet, p4pminer in shell/terminal/command prompt
+
+  
