@@ -8,10 +8,10 @@ A custom made crypto currency created entirely in PHP
 the node,wallet,miner all work in PHP
 
 
-# Miners do not earn off share difficulty but rather from solo block rewards, 5% fee of each transactions made in a block transactions solved by miner.
+* Miners do not earn off share difficulty but rather from solo block rewards, 5% fee of each transactions made in a block transactions solved by miner.
 
 
-a Crypto Node that can/will NEVER Die
+A Crypto Node that can/will NEVER Die
 
 
 # Purchase | sell p4p coin
