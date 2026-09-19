@@ -20,7 +20,7 @@ A Crypto Node that can/will NEVER Die
 
 * The blockchain creates automated backups, If it ever fails or becomes corrupt the node can easily be put back online without user wallet damage
 
-* public node daemon release coming soon
+* p4pnode.php allows you to run your own node daemon service.
 
 # Purchase | sell p4p coin
 
