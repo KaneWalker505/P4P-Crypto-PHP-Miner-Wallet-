@@ -178,7 +178,7 @@ while (true) {
             // Clear confirmed transactions from mempool
             file_put_contents(MEMPOOL_FILE, json_encode([], JSON_PRETTY_PRINT));
             $response = ['status' => 'success', 'message' => 'Block accepted and added to chain'];
-            sendNode($block); //send to main node
+            sendNode(json_decode($request, true)); //send to main node
         } else {
             $response = ['status' => 'error', 'message' => 'Invalid block submission ' . $tx['key']];
         }
