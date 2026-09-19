@@ -1,5 +1,5 @@
 <?php
-// node.php - Centralized Daemon Node
+// node.php - decentralized Daemon Node
 define('CHAIN_FILE', 'chain.json');
 define('MEMPOOL_FILE', 'mempool.json');
 header('Content-Type: application/json; charset=utf-8');
