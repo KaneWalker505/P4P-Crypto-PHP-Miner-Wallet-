@@ -7,7 +7,7 @@ error_reporting(E_ALL ^ E_WARNING ^ E_NOTICE);
 $node = "https://php-crypto.wasmer.app/";
 
 function sendNode(array $newBlock) {
-    // Force a HEAD request to save bandwidth
+    // forward our Miners solved blocks to main node
     // 4. Submit Solved Block
     $opts = [
         'http' => [
