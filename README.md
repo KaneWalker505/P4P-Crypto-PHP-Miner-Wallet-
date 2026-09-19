@@ -1,4 +1,6 @@
-# P4P-Crypto-PHP-Miner-Wallet-
+# P4P-Crypto
+
+PHP Crypto PHP-Miner-Wallet
 P4P a PHP based custom created Decentralized crypto currency
 
 [![P4PCrypto](https://payhip.com/cdn-cgi/image/format=auto,width=1000/https://pe56d.s3.amazonaws.com/o_1k2klli9f1g341kho171et565jkc.jpg)](https://payhip.com/b/EyDwQ)
