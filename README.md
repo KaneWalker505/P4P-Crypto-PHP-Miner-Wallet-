@@ -25,7 +25,8 @@ A Crypto Node that can/will NEVER Die
 * p4pnode.php allows you to run your own node daemon service. (simply host p4pnode.php) on a PHP service.
 
 ``` echo \
-php -S localhost:8080 /PATHTOFOLDERWITHp4pnode.phpINSIDE
+cd FolderWithp4pnode.phpInside
+php -S localhost:8080
 ```
 
 # Purchase | sell p4p coin
